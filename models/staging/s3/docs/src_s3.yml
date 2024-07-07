@@ -1,0 +1,7 @@
+sources:
+  - name: s3
+    database: raw
+    schema: s3
+
+    tables:
+    - name: hackerone_disclosed_reports

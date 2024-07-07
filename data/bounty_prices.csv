@@ -1,0 +1,9 @@
+asset,type,lower,higher,average
+mobile,low,75,750,412.5
+mobile,medium,750,3000,1875
+mobile,high,3000,7500,5250
+mobile,critical,7500,15000,11250
+other,low,50,500,275
+other,medium,500,2000,1250
+other,high,2000,5000,3500
+other,critical,5000,10000,7500

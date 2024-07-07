@@ -1,0 +1,7 @@
+sources:
+  - name: seeds
+    database: analytics
+    schema: hacker_one
+
+    tables:
+    - name: bounty_prices
