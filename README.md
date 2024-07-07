@@ -1,4 +1,4 @@
-### DBT, Snowpark, and OpenAI Integration for Vulnerability Data Analysis
+## DBT, Snowpark, and OpenAI Integration for Vulnerability Data Analysis
 
 This repository contains the dbt projects and Python scripts used to process, analyze, and generate summaries from disclosed vulnerability data sourced from HackerOne. The goal is to utilize dbt for data transformation, Snowpark to facilitate Python operations within Snowflake, and OpenAI's machine learning algorithms to identify significant trends and automate the creation of comprehensive whitepapers on cybersecurity vulnerabilities.
 
